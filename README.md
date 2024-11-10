@@ -9,6 +9,9 @@ Install via pip
 pip install --no-deps datasets-fast
 ```
 
+TODO: handle dependency issues that require no-deps installation (replacing datasets)
+
+
 datasets-fast is a dependency of [Bio Datasets](https://github.com/bioml-tools/bio-datasets).
 
 The following is the Datasets README.
