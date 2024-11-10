@@ -6,7 +6,7 @@ These modifications have been submitted as PRs to the Datasets library and this 
 
 Install via pip
 ```
-pip install datasets-fast
+pip install --no-deps datasets-fast
 ```
 
 datasets-fast is a dependency of [Bio Datasets](https://github.com/bioml-tools/bio-datasets).
